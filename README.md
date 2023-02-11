@@ -1,6 +1,7 @@
 
 # PlagiarismTester
 Link to our project propoal -  (https://github.com/ishikaubc/PlagiarismTester/files/10714767/COSC.320.project.proposal-2.pdf)
+
 Project Description:
 
 Formulate an algorithm into a problem by defining the problem and identifying the input and output of the problem. 
