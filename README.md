@@ -10,3 +10,9 @@ Compare the hash values of the text to check for plagiarism against the database
 Use String Matching Algorithms such as Rabin Karp algorithm and KMP to search for a match between the text to be searched and the original text.
 Use machine learning techniques to improve the performance of the detector
 Test and evaluate the system using a dataset of original and plagiarized text
+
+Installation and SetUp
+
+1. Install the dependencies in detector.ipynb
+2. Import the code to the Jupyter Lab
+3. Run and execute the code
